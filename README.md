@@ -1,3 +1,5 @@
+### Make a detailed video from the beginning of the installation of the plugin to create pages and customize the template. All stages of installation. Thank !
+
 <p align="center"><img src="resources/img/entry-loader.svg" width="381" height="148" alt="Entries Loader And Filter plugin"></p>
 
 # Entries Loader And Filter plugin for Craft CMS 3.x
